@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @9root3
-- 👀 I’m interested in ... AI, ML, DL, Computer Vision, NLP
+- 👀 I’m interested in ... AI, ML, DL, Computer Vision, Multi-modality
 - 🌱 I’m currently learning ... Computer Science
 - 📫 How to reach me ... kyukun333@gmail.com
 
